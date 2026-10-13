@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# TensorRT engines
+*.engine
+*.trt
+*.onnx
+
+# Data / checkpoints
+data/
+weights/
+*.pt
+*.pth
+*.pkl
+
+# Results
+results/
+runs/
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Env
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
