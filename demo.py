@@ -12,7 +12,7 @@ from core.scheduler import CodecInspiredScheduler, SchedulerConfig
 from perception.detector import ObjectDetector
 from perception.lane_detector import HoughLaneDetector, LaneResult
 from control.steering import SteeringController, ControlOutput
-from utils.visualizer import draw_hud
+from pd_utils.visualizer import draw_hud
 
 
 def parse_args():
