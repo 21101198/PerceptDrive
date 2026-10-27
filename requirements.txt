@@ -1,0 +1,24 @@
+# ── Core ──────────────────────────────────────────────
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# ── Object Detection ──────────────────────────────────
+ultralytics>=8.0.0          # YOLOv8 support
+onnxruntime-gpu>=1.16.0     # TensorRT INT8 (no pycuda)
+
+# ── Depth Estimation ──────────────────────────────────
+timm>=0.9.0                 # MiDaS backbone
+
+# ── Visualization ─────────────────────────────────────
+matplotlib>=3.7.0
+PyQt6>=6.4.0                # GUI demo
+
+# ── Performance / Profiling ───────────────────────────
+psutil>=5.9.0
+pandas>=2.0.0
+
+# ── Optional: CARLA simulator ─────────────────────────
+# carla>=0.9.14             # pip install carla
