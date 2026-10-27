@@ -103,6 +103,13 @@ OL-SCS_i = (0.6 + 0.4 · (1 − conf_i)) · Δpixel_i      하나라도 ≥ 0.25
 
 ---
 
+<style scoped>
+section { font-size: 17px; padding: 36px 40px; }
+h2 { font-size: 30px; margin-bottom: 6px; }
+table { font-size: 15px; }
+blockquote { font-size: 13px; }
+</style>
+
 ## 3-3. 결과 ②: 같은 I 비율의 고정 간격 대비  `(50초)` ★
 
 **OL-SCS − 고정 간격** (I-frame 수 동일)
