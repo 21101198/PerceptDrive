@@ -104,7 +104,7 @@ PerceptDrive/
 
 ## 관련 프로젝트
 
-- [codec-inspired-realtime-inference](https://github.com/amgalantur/codec-inspired-realtime-inference) — 기반 캡스톤 프로젝트
+- [codec-inspired-realtime-inference](https://github.com/21101198/codec-inspired-realtime-inference) — 기반 캡스톤 프로젝트
 
 ## 저자
 
